@@ -1,0 +1,15 @@
+{
+  "biopharmadive": {
+    "base_url": "https://www.biopharmadive.com/topic/pharma/",
+    "article_selector": "h3.feed__title.feed__title--display",
+    "link_selector": "a",
+    "link_prefix": "https://www.biopharmadive.com"
+  },
+  "pharmaexecutive": {
+    "base_url": "https://www.pharmexec.com/",
+    "article_selector": "p.font-bold",
+    "link_selector": "a",
+    "link_prefix": "https://www.pharmexec.com",
+    "paragraph_selector": "p.mt-4.text-gray-800"
+  }
+}
